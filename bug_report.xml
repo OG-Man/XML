@@ -1,1 +1,28 @@
 
+<Bug_ID>BR-NTC-0365</Bug_ID>
+<Bug_Summary>
+  <WHAT>What has happened with the application?</WHAT>
+  <HOW>What did we click/do to produce the bug?</HOW>
+  <WHERE>Where exactly in the app did we find the bug?</WHERE>
+<Bug_Summary>  
+<Build_Number>Version Number 5.0.1</Build_Number>
+<Severity>Blocker
+  Critical
+  Major
+  Minor
+  Trivial</Severity>
+<Priority>High
+  Medium
+  Low</Priority>
+<Assigned_to>Developer-X</Assigned_to>
+<Reported_By>Your Name</Reported_By>
+<Reported_On>Date</Reported_On>
+<Status>New
+  Open
+  Active
+  etc</Status>
+<Environment>Windows 7/SQL Server 2005</Environment>
+<Bug_Description>Steps to Reproduce
+  Actual Result
+  Expected Result</Bug_Description>
+<Attachments>Variable multimedia resources</Attachments>
