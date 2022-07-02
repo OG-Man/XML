@@ -1,0 +1,10 @@
+
+Title: Example.
+Tested by: Oleg Golovin.
+Date: Nov-22-2026.
+Environment: Win13.
+
+Section: Cart page.
+Description: Total price is displayed.
+Result: Passed/Failed.
+Comments: Create BugReport BRC-1255.
