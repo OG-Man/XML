@@ -1,0 +1,19 @@
+
+Bug ID: BR-NTC-0365.
+Bug Summary:
+  WHAT: "What has happened with the application?"
+  HOW: "What did we click/do to produce the bug?"
+  WHERE: "Where exactly in the app did we find the bug?"
+Build Number: Version Number 5.0.1.
+Severity: Blocker/Critical/Major/Minor/Trivial.
+Priority: High/Medium/Low.
+Assigned to: Developer-X.
+Reported By: Your Name.
+Reported On: Date.
+Status: New/Open/Active/etc.
+Environment: Windows 7/SQL Server 2005.
+Bug Description:
+  Steps to Reproduce
+  Actual Result
+  Expected Result
+Attachments: screenshots/videos/logs.
